@@ -38,7 +38,7 @@ volume = {10},
 pages = {100053},
 year = {2023},
 issn = {2772-5030},
-doi = {https://doi.org/10.1016/j.teler.2023.100053},
+doi = {10.1016/j.teler.2023.100053},
 url = {https://www.sciencedirect.com/science/article/pii/S2772503023000130},
 author = {Vanlalruata Hnamte and Jamal Hussain}
 }
