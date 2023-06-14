@@ -40,3 +40,6 @@ Volume 10,
 ISSN 2772-5030,
 https://doi.org/10.1016/j.teler.2023.100053.
 (https://www.sciencedirect.com/science/article/pii/S2772503023000130)
+
+# Note:
+If you find this code and paper useful, kindly consider to cite from your valuable work.
