@@ -3,6 +3,9 @@
 # Journal:
 Telematics and Informatics R
 
+# Publisher:
+Elsevier
+
 # Corresponding author:
 Vanlalruata Hnamte
 
